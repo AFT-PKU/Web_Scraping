@@ -6,9 +6,6 @@
 
 &emsp;&emsp;除了学习视频之外，我们也推荐其他一些学习资料：[《Python爬虫开发与项目实战》](Python网络数据采集.pdf)，[requests文档](https://docs.python-requests.org/zh_CN/latest/)，[《Python3网络爬虫开发实战》](https://pan.baidu.com/s/1QDsG1jupCmXWS_J5O45-9g)，[《Python爬虫开发与项目实战》](https://pan.baidu.com/s/1xiMej4cuhlrw9Sxv_hhFSw)
 
->GitHub的markdown不再支持tex公式的解析显示，使用Chrome的同学可以安装[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)添加MathJax的解析以对公式正常显示。
-
->如果需要直接阅读模式，可以移步至我们的github.io进行阅读：[《SQL基础教程》第2版读书笔记]()
 
 ## 目录
 
