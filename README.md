@@ -2,7 +2,7 @@
 
 ## 前言
 
-&emsp;&emsp;这个项目记录了北京大学AFT协会对Web-Scraping的学习笔记，同时也特别感谢 @路飞学城IT 录制的[学习视频](https://www.bilibili.com/video/BV1i54y1h75W?p=1)
+&emsp;&emsp;这个项目记录了北京大学AFT协会对[Web-Scraping](Web-Scraping)的学习笔记，同时也特别感谢 @路飞学城IT 录制的[学习视频](https://www.bilibili.com/video/BV1i54y1h75W?p=1)
 
 &emsp;&emsp;除了学习视频之外，我们也推荐其他一些学习资料：[《Python爬虫开发与项目实战》](Python网络数据采集.pdf)，[requests文档](https://docs.python-requests.org/zh_CN/latest/)，[《Python3网络爬虫开发实战》](https://pan.baidu.com/s/1QDsG1jupCmXWS_J5O45-9g)，[《Python爬虫开发与项目实战》](https://pan.baidu.com/s/1xiMej4cuhlrw9Sxv_hhFSw)
 
