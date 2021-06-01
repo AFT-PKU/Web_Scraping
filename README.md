@@ -4,7 +4,7 @@
 
 &emsp;&emsp;网络爬虫（Web crawler），是一种按照一定的规则，自动地抓取万维网信息的程序或者脚本，它们被广泛用于互联网搜索引擎或其他类似网站，可以自动采集所有其能够访问到的页面内容，以获取或更新这些网站的内容和检索方式。从功能上来讲，爬虫一般分为数据采集，处理，储存三个部分。
 
-&emsp;&emsp;本模块学习过程中，我们主要关注数据的采集这一步骤，处理和储存分别由[数据处理](https://github.com/AFT-PKU/Data-Analysis)和[SQL](https://github.com/AFT-PKU/SQL)承担。由于相关书籍比较冗长，而爬虫技术又是一个比较specific技术，我们主要根据较新的[Web-Scraping](Web-Scraping)这一笔记进行学习并进一步实战，同时也特别感谢 @路飞学城IT 提供的[学习视频](https://www.bilibili.com/video/BV1i54y1h75W?p=1)(https://www.bilibili.com/video/BV1i54y1h75W?p=1)和[相关代码](链接：https://pan.baidu.com/s/101rKi4ZYytMsaT3cYd0B4A)。
+&emsp;&emsp;本模块学习过程中，我们主要关注数据的采集这一步骤，处理和储存分别由[数据处理](https://github.com/AFT-PKU/Data-Analysis)和[SQL](https://github.com/AFT-PKU/SQL)承担。由于相关书籍比较冗长，而爬虫技术又是一个比较specific技术，我们主要根据较新的[Web-Scraping](Web-Scraping)这一笔记进行学习并进一步实战，同时也特别感谢 @路飞学城IT 提供的[学习视频](https://www.bilibili.com/video/BV1i54y1h75W?p=1)(https://www.bilibili.com/video/BV1i54y1h75W?p=1) 和  [相关代码](链接：https://pan.baidu.com/s/101rKi4ZYytMsaT3cYd0B4A)。
 
 &emsp;&emsp;除了学习视频之外，我们也推荐其他一些学习资料：[《Python爬虫开发与项目实战》](Python网络数据采集.pdf)，[requests文档](https://docs.python-requests.org/zh_CN/latest/)，[《Python3网络爬虫开发实战》](https://pan.baidu.com/s/1QDsG1jupCmXWS_J5O45-9g)，[《Python爬虫开发与项目实战》](https://pan.baidu.com/s/1xiMej4cuhlrw9Sxv_hhFSw)
 
