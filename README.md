@@ -1,12 +1,10 @@
-# 《SQL基础教程》第2版读书笔记
+# Web-Scraping学习笔记
 
 ## 前言
 
-&emsp;&emsp;本书是畅销书[《SQL基础教程》第2版](sql基础教程（第2版）.pdf)，介绍了关系数据库以及用来操作关系数据库的SQL语言的使用方法。书中通过丰富的图示、大量示例程序和详实的操作步骤说明，让读者循序渐进地掌握SQL的基础知识和使用技巧，切实提高编程能力。每章结尾设置有练习题，帮助读者检验对各章内容的理解程度。另外，本书还将重要知识点总结为“法则”，方便读者随时查阅。第2版除了将示例程序更新为对应新版本的DB的SQL之外，还新增了一章，介绍如何从应用程序执行SQL。
+&emsp;&emsp;这个项目记录了北京大学AFT协会对Web-Scraping的学习笔记，同时也特别感谢 @路飞学城IT 录制的[学习视频](https://www.bilibili.com/video/BV1i54y1h75W?p=1)
 
-&emsp;&emsp;这个项目记录了北京大学AFT协会对《SQL基础教程》第2版的学习笔记，同时也特别感谢Master_lisa为本书录制的[学习视频](https://www.bilibili.com/video/av62315714)
-
-&emsp;&emsp;除了《SQL基础教程》第2版之外，我们也推荐其他一些学习资料：[《MySQL必知必会》](《MySQL必知必会》.pdf)，[W3school SQL教程](https://www.w3school.com.cn/sql/index.asp)，[哈佛CS50](https://b23.tv/KeJnxS)
+&emsp;&emsp;除了学习视频之外，我们也推荐其他一些学习资料：[《Python爬虫开发与项目实战》](Python爬虫开发与项目实战.pdf)，[requests文档](https://docs.python-requests.org/zh_CN/latest/)，[《Python 3网络爬虫开发实战》](https://pan.baidu.com/s/1QDsG1jupCmXWS_J5O45-9g)
 
 >GitHub的markdown不再支持tex公式的解析显示，使用Chrome的同学可以安装[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)添加MathJax的解析以对公式正常显示。
 
